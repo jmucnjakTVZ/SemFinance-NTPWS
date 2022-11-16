@@ -1,0 +1,17 @@
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\bin\Debug\net6.0\SemFinance.DAL.deps.json
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\bin\Debug\net6.0\SemFinance.DAL.runtimeconfig.json
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\bin\Debug\net6.0\SemFinance.DAL.dll
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\bin\Debug\net6.0\SemFinance.DAL.pdb
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\bin\Debug\net6.0\SemFinance.Model.dll
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\bin\Debug\net6.0\SemFinance.Model.pdb
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.csproj.AssemblyReference.cache
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.AssemblyInfoInputs.cache
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.AssemblyInfo.cs
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.csproj.CopyComplete
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.dll
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\refint\SemFinance.DAL.dll
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.pdb
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\SemFinance.DAL.genruntimeconfig.cache
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.DAL\obj\Debug\net6.0\ref\SemFinance.DAL.dll

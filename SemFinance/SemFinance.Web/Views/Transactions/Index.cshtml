@@ -1,0 +1,31 @@
+﻿@using SemFinance.Model.DTOs
+@model List<TransactionDTO>
+
+<h2>All transactions</h2>
+<a asp-action="CreateTransaction" type="button" class="btn btn-outline-primary">Create a new transaction</a>
+<partial name="_TransactionList" model="Model" />
+
+@section scripts {
+<script type="text/javascript">
+
+    function onDeleteTransaction(element, id) {
+        jQuery.ajax({
+            type: "DELETE",
+            url: "https://localhost:7298/api/transactions/" + id,
+            success: (data) => {
+                fetchTransactions()
+            }
+        })
+    }
+
+    function fetchTransactions() {
+        jQuery.ajax({
+            type: "POST",
+            url: "https://localhost:7298/Transactions/Ajax",
+            success: (data) => {
+                $("#tableBody").replaceWith(data)
+            }
+        })
+    }
+</script>
+}

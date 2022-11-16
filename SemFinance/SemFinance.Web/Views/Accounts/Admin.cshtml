@@ -1,0 +1,32 @@
+﻿@using SemFinance.Model.DTOs
+
+@model List<AccountDTO>
+
+<div class="row" style="height:80vh">
+    <div class="col-md-6 overflow-auto" style="height:100%">
+        <h2>Accounts</h2>
+        <partial name="_AccountList" model="Model" />
+    </div>
+</div>
+
+@section scripts {
+<script type="text/javascript">
+    window.onload = function () {
+
+        var divsToHide = document.getElementsByClassName("admin"); //divsToHide is an array
+        for(var i = 0; i < divsToHide.length; i++){
+            divsToHide[i].style.display = "none";
+        }
+
+        var ignoreClick = document.getElementsByClassName("adminClick");
+        for(var i = 0; i < ignoreClick.length; i++){
+            console.log(ignoreClick[i])
+            ignoreClick[i].addEventListener('click', function(e) {
+              e.preventDefault();
+              e.stopPropagation();
+              return false;
+            });
+        }
+    }
+</script>
+}

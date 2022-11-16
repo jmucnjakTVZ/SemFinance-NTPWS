@@ -1,0 +1,18 @@
+﻿@using SemFinance.Model.DTOs
+
+@model List<LoanDTO>
+
+
+<tbody id="tableBody">
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <div class="card my-2">
+                    <div class="card-header">@item.Name</div>
+                    <div class="card-body">@item.Amount</div>
+                </div>
+            </td>
+        </tr>
+    }
+</tbody>

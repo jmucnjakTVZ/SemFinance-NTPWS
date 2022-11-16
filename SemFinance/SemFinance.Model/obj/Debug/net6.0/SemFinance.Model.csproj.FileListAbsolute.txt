@@ -1,0 +1,12 @@
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\bin\Debug\net6.0\SemFinance.Model.deps.json
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\bin\Debug\net6.0\SemFinance.Model.dll
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\bin\Debug\net6.0\SemFinance.Model.pdb
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\SemFinance.Model.csproj.AssemblyReference.cache
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\SemFinance.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\SemFinance.Model.AssemblyInfoInputs.cache
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\SemFinance.Model.AssemblyInfo.cs
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\SemFinance.Model.csproj.CoreCompileInputs.cache
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\SemFinance.Model.dll
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\refint\SemFinance.Model.dll
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\SemFinance.Model.pdb
+C:\Users\jakov\Desktop\New folder\Seminar\SemFinance\SemFinance.Model\obj\Debug\net6.0\ref\SemFinance.Model.dll

@@ -1,0 +1,34 @@
+﻿@using SemFinance.Model
+@model Transaction
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditTransaction">
+            <input type="hidden" asp-for="ID" />
+            <input type="hidden" asp-for="AccountID" />
+            <input type="hidden" asp-for="LoanID" />
+            <partial name="_CreateOrEditTransaction" />
+        </form>
+    </div>
+</div>
+
+@section scripts {
+<script type="text/javascript">
+    window.onload = function () {
+        if (@Model.AccountID == null || @Model.AccountID == "") {
+            $("#currency-field").show()
+        } else {
+            $("#currency-field").hide()
+        }
+    }
+
+    function onAccountChange(value) {
+        if (value == "") {
+            $("#currency-field").show()
+        } else {
+            $("#currency-field").hide()
+        }
+    }
+</script>
+}

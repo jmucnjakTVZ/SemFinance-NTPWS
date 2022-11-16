@@ -1,0 +1,31 @@
+﻿@using SemFinance.Model.DTOs
+
+@model List<TransactionDTO>
+
+<div id="tableBody">
+    @foreach (var item in Model)
+    {
+        <div class="card my-2">
+            <div class="card-header">
+                @item.Name
+                <div class="text-end">
+                    @item.AmountWithCurrency
+                </div>
+            </div>
+            <div class="card-body">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" style="">@item.Description</li>
+                    <li class="list-group-item">@item.FormattedDate</li>
+                </ul>
+            </div>
+            <div class="card-footer admin">
+                <a class="btn btn-outline-info" asp-controller="Transactions" asp-action="Edit" asp-route-id="@item.ID">Edit</a>
+                <button class="btn btn-outline-danger" onclick="onDeleteTransaction(this, @item.ID)">Delete</button>
+                @if (@item.AccountID != null)
+                {
+                    <a class="account btn btn-outline-success" asp-controller="Accounts" asp-action="Details" asp-route-id="@item.AccountID">Go to account</a>
+                }
+            </div>
+        </div>
+    }
+</div>

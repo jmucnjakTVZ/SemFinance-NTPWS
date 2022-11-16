@@ -1,0 +1,93 @@
+﻿@using SemFinance.Model.DTOs
+@model AccountDetailsDTO
+
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="sticky-top">
+            <h2>@Model.Account.Name</h2>
+            <div class="card my-2">
+                <div class="card-body">@Model.Account.AmountWithCurrency</div>
+            </div>
+            <a class="btn btn-outline-info" asp-action="Edit" asp-route-id="@Model.Account.ID">Edit account</a>
+            <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#deleteAccountModal">Delete account</button>
+            <br />
+            <br />
+            <h3>Spending in last 30 days</h3>
+            <br />
+            <div id="chartContainer" style="height: 370px; width: 100%;"></div>
+        </div>
+    </div>
+    <div class="col-md-6 overflow-auto">
+        <div class="row">
+            <h2>Transactions</h2>
+            <a class="btn btn-outline-primary" asp-controller="Transactions" asp-action="Create" asp-route-accountId="@Model.Account.ID">Create a transaction</a>
+            <partial name="_TransactionList" model="Model.Transactions" />
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="deleteAccountModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="deleteAccountModalLabel">Delete account</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cancel"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete this account? This is an unreversible action!
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@Model.Account.ID">Delete</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script type="text/javascript">
+    window.onload = function () {
+
+        var divsToHide = document.getElementsByClassName("account"); //divsToHide is an array
+        for(var i = 0; i < divsToHide.length; i++){
+            divsToHide[i].style.display = "none";
+        }
+
+        var chart = new CanvasJS.Chart("chartContainer", {
+            animationEnabled: true,
+            toolTip: { shared: true },
+            data: [{
+                type: "line",
+                name: "Total",
+                showInLegend: false,
+                dataPoints: @Html.Raw(ViewBag.DataPoints)
+            }]
+        });
+
+        chart.render();
+
+    }
+
+    function onDeleteTransaction(element, id) {
+        jQuery.ajax({
+            type: "DELETE",
+            url: "https://localhost:7298/api/transactions/" + id,
+            success: (data) => {
+                fetchTransactions()
+            }
+        })
+    }
+
+    function fetchTransactions() {
+        jQuery.ajax({
+            type: "POST",
+            url: "https://localhost:7298/Accounts/Details/" + @Model.Account.ID + "/Transactions",
+            success: (data) => {
+                $("#tableBody").replaceWith(data)
+            }
+        })
+    }
+</script>
+}

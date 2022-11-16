@@ -1,0 +1,62 @@
+﻿@using SemFinance.Model.DTOs
+
+@model AccountsIndexDTO
+
+<div class="row" style="height:80vh">
+    <div class="col-md-6 overflow-auto" style="height:100%">
+        <h2>Accounts</h2>
+        <partial name="_AccountList" model="Model.Accounts" />
+        <a asp-action="CreateAccount" type="button" class="btn btn-outline-primary">Create a new account</a>
+    </div>
+    <div class="col-md-6 overflow-auto" style="height:100%">
+        <div class="row">
+            <h2>Transactions</h2>
+            <partial name="_TransactionList" model="Model.Transactions" />
+            <a id="transactionsEmpty" asp-controller="Transactions" asp-action="CreateTransaction" type="button" class="btn btn-outline-primary">Create new transaction</a>
+        </div>
+        <div class="row">
+            <h2>Future transactions</h2>
+            <partial name="_TransactionList" model="Model.FutureTransactions" />
+            <a id="futureTransactionsEmpty" asp-controller="Transactions" asp-action="CreateTransaction" type="button" class="btn btn-outline-primary">Create new transaction</a>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+<script type="text/javascript">
+    window.onload = function () {
+
+        if (@Model.Transactions.Count == 0) {
+            $("#transactionsEmpty").show()
+        } else {
+            $("#transactionsEmpty").hide()
+        }
+
+        if (@Model.FutureTransactions.Count == 0) {
+            $("#futureTransactionsEmpty").show()
+        } else {
+            $("#futureTransactionsEmpty").hide()
+        }
+    }
+
+    function onDeleteTransaction(element, id) {
+        jQuery.ajax({
+            type: "DELETE",
+            url: "https://localhost:7298/api/transactions/" + id,
+            success: (data) => {
+                fetchTransactions()
+            }
+        })
+    }
+
+    function fetchTransactions() {
+        jQuery.ajax({
+            type: "POST",
+            url: "https://localhost:7298/Transactions/Ajax",
+            success: (data) => {
+                $("#tableBody").replaceWith(data)
+            }
+        })
+    }
+</script>
+}

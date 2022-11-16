@@ -1,0 +1,24 @@
+﻿@using SemFinance.Model.DTOs
+
+@model List<AccountDTO>
+
+
+<tbody id="tableBody">
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <a asp-action="AccountDetails" class="adminClick text-reset text-decoration-none" asp-route-id="@item.ID">
+                    <div class="card my-2">
+                        <div class="card-header">@item.Name</div>
+                        <div class="card-body">
+                            <div class="text-end">
+                                @item.AmountWithCurrency
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </td>
+        </tr>
+    }
+</tbody>

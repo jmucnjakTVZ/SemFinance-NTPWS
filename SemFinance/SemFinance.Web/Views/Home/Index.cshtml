@@ -1,0 +1,49 @@
+﻿@using SemFinance.Model.DTOs
+
+@model HomeIndexDTO
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Sem Finance</h1>
+</div>
+
+<br />
+<div class="row">
+    <div class="col-md-7">
+        <div class="text-start">
+            <h2>Accounts</h2>
+            <p class="lead">Check all your accounts in one place!</p>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <img class="img-fluid mx-auto" width="500" height="500" src="@Url.Content(Model.Accounts)" alt="Image" />
+    </div>
+</div>
+<hr />
+<div class="divider"></div>
+<div class="row">
+    <div class="col-md-7 order-md-2">
+        <div class="text-start">
+            <h2>Transactions</h2>
+            <p class="lead">Quick view of all your transactions regardless of the place they where made at.</p>
+        </div>
+    </div>
+    <div class="col-md-5 order-md-1">
+        <img class="img-fluid mx-auto" width="500" height="500" src="@Url.Content(Model.AllTransactions)" alt="Image" />
+    </div>
+</div>
+<hr/>
+<div class="row">
+    <div class="col-md-7">
+        <div class="text-start">
+            <h2>Account overview</h2>
+            <p class="lead">Check account details and all of it transactions! Graph included</p>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <img class="img-fluid mx-auto" width="500" height="500" src="@Url.Content(Model.Overview)" alt="Image" />
+    </div>
+</div>
+

@@ -1,0 +1,24 @@
+﻿@using SemFinance.Model
+@model Transaction
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateTransaction">
+            <partial name="_CreateOrEditTransaction" />
+        </form>
+    </div>
+</div>
+
+@section scripts {
+<script type="text/javascript">
+    function onAccountChange(value) {
+        if (value == "") {
+            $("#currency-field").show()
+        } else {
+            $("#currency-field").hide()
+        }
+    }
+</script>
+
+}

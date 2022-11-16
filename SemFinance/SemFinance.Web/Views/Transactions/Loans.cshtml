@@ -1,0 +1,15 @@
+﻿@using SemFinance.Model.DTOs
+@model List<LoanDTO>
+
+<div class="row" style="height:80vh">
+    <div class="col-md-6 overflow-auto" style="height:100%">
+        <h2>Loans</h2>
+        <partial name="_LoanList" model="Model" />
+    </div>
+    <div class="col-md-6 overflow-auto" style="height:100%">
+        <div class="row">
+            <h2>Transactions</h2>
+            <partial name="_TransactionList" model="Model.First().Transactions" />
+        </div>
+    </div>
+</div>
