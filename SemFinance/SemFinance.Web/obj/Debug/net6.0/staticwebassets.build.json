@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DVQFYLhLGlC6a5vewvlH+i8K4xpY0MfO48qUPLNT4DY=",
+  "Hash": "UT9DLeAGfbyq/8d5/lQxSj+0x0EQZHgHmvDbPJaowLY=",
   "Source": "SemFinance.Web",
   "BasePath": "_content/SemFinance.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SemFinance.Web\\wwwroot",
       "Source": "SemFinance.Web",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\jakov\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.4\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SemFinance.Web.styles.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SemFinance.Web.styles.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "SemFinance.Web.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SemFinance.Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SemFinance.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SemFinance.Web.bundle.scp.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SemFinance.Web.bundle.scp.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "SemFinance.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SemFinance.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SemFinance.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\css\\site.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\favicon.ico",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\accounts.png",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\accounts.png",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "Images/accounts.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\accounts.png"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\AllTransactions.png",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\AllTransactions.png",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "Images/AllTransactions.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\AllTransactions.png"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\Overview.png",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\Overview.png",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "Images/Overview.png",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Overview.png"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\placeholder.png",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\Images\\placeholder.png",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "Images/placeholder.png",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\js\\site.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SemFinance.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jakov\\Desktop\\New folder\\Seminar\\SemFinance\\SemFinance.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jakov\\Desktop\\SemFinance-NTPWS\\SemFinance-NTPWS\\SemFinance\\SemFinance.Web\\wwwroot\\",
       "BasePath": "_content/SemFinance.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

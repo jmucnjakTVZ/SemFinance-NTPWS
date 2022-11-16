@@ -29,7 +29,7 @@ namespace SemFinance.Model
         public double Amount { get; set; }
 
         [Required]
-        public DateTime DateOfTransaction { get; set; }
+        public DateTime DateOfTransaction { get; set; } = DateTime.Now;
 
         [ForeignKey(nameof(Account))]
         public int? AccountID { get; set; }
